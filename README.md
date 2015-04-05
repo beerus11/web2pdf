@@ -1,2 +1,2 @@
 # web2pdf
-Convert webpages to PDF! Format  and save them into your pc.
+Convert webpages into PDF! Format  and save them in your pc.
